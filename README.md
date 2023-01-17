@@ -1,1 +1,3 @@
-# Basit-hesap-makinas-
+# Basit-hesap-makinasi
+
+[Patika](www.patika.dev) --Ödevidir
